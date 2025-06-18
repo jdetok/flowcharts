@@ -4,28 +4,28 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Gaa8zeEHLejWbOIzc_xn-1" value="/api" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="80" y="80" width="40" height="40" as="geometry" />
+        <mxCell id="Gaa8zeEHLejWbOIzc_xn-1" value="/api" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="50" y="20" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Gaa8zeEHLejWbOIzc_xn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Gaa8zeEHLejWbOIzc_xn-1" target="Gaa8zeEHLejWbOIzc_xn-1">
+        <mxCell id="Gaa8zeEHLejWbOIzc_xn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Gaa8zeEHLejWbOIzc_xn-1" target="Gaa8zeEHLejWbOIzc_xn-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Gaa8zeEHLejWbOIzc_xn-4" value="&lt;div&gt;/internal&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Gaa8zeEHLejWbOIzc_xn-4" value="&lt;div&gt;/internal&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="80" y="140" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Gaa8zeEHLejWbOIzc_xn-5" value="&lt;div&gt;/external&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Gaa8zeEHLejWbOIzc_xn-5" value="&lt;div&gt;/external&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="80" y="210" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Gaa8zeEHLejWbOIzc_xn-6" value="&lt;div&gt;/json&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Gaa8zeEHLejWbOIzc_xn-6" value="&lt;div&gt;/json&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="80" y="280" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Gaa8zeEHLejWbOIzc_xn-7" value="/www" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Gaa8zeEHLejWbOIzc_xn-7" value="/www" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="80" y="410" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Gaa8zeEHLejWbOIzc_xn-8" value="/docker" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Gaa8zeEHLejWbOIzc_xn-8" value="/docker" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="80" y="340" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Gaa8zeEHLejWbOIzc_xn-9" value="/scripts" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="Gaa8zeEHLejWbOIzc_xn-9" value="/scripts" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="80" y="480" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
